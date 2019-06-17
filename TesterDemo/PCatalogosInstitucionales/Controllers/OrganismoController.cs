@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
+//Api comentario
 namespace PCatalogosInstitucionales.Controllers
 {
     [Route("api/[controller]")]

@@ -2,6 +2,7 @@
 
 namespace Entities
 {
+	//A ver un comentario
 	public class EOrganismo
 	{
 		public int IdOrganismo { get; set; }

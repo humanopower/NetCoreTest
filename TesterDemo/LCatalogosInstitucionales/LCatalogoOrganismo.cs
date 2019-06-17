@@ -1,7 +1,7 @@
 ﻿using Entities;
 using System;
 using System.Collections.Generic;
-
+//Comentarioa
 namespace LCatalogosInstitucionales
 {
 	public class LCatalogoOrganismo

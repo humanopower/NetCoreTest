@@ -1,7 +1,7 @@
 ﻿using Entities;
 using System;
 using System.Collections.Generic;
-
+//Comentario
 namespace DBCatalogosInstitucionales
 {
 	//Aqui hay un cambio

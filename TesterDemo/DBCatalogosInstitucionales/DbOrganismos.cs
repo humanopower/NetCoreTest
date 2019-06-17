@@ -31,6 +31,18 @@ namespace DBCatalogosInstitucionales
 				AbreviacionOrganismo = "PTRI",
 				DescripcionOrganismo = "Pemex Transformación Industrial"
 			});
+			listaOrganismos.Add(new EOrganismo()
+			{
+				IdOrganismo = 4,
+				AbreviacionOrganismo = "PMI",
+				DescripcionOrganismo = "Pemex Internacional"
+			});
+			listaOrganismos.Add(new EOrganismo()
+			{
+				IdOrganismo = 9,
+				AbreviacionOrganismo = "PLOG",
+				DescripcionOrganismo = "Pemex Logística"
+			});
 			return listaOrganismos;
 		}
 	}

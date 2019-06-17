@@ -7,3 +7,12 @@ C:\Users\410993\source\Repos\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entitie
 C:\Users\410993\source\Repos\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
 C:\Users\410993\source\Repos\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.dll
 C:\Users\410993\source\Repos\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+D:\NetCoreTest\TesterDemo\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\NetCoreTest\TesterDemo\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\NetCoreTest\TesterDemo\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\NetCoreTest\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+D:\NetCoreTest\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\NetCoreTest\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\NetCoreTest\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\NetCoreTest\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\NetCoreTest\TesterDemo\Entities\obj\Debug\netcoreapp2.2\Entities.pdb

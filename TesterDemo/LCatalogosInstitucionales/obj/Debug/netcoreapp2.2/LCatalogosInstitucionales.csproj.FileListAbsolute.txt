@@ -12,3 +12,17 @@ C:\Users\410993\source\Repos\TesterDemo\LCatalogosInstitucionales\obj\Debug\netc
 C:\Users\410993\source\Repos\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.pdb
 C:\Users\410993\source\Repos\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\DBCatalogosInstitucionales.dll
 C:\Users\410993\source\Repos\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\DBCatalogosInstitucionales.pdb
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\LCatalogosInstitucionales.deps.json
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\LCatalogosInstitucionales.dll
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\LCatalogosInstitucionales.pdb
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\DBCatalogosInstitucionales.dll
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\Entities.dll
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\DBCatalogosInstitucionales.pdb
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.csprojAssemblyReference.cache
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.csproj.CoreCompileInputs.cache
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.AssemblyInfoInputs.cache
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.AssemblyInfo.cs
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.csproj.CopyComplete
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.dll
+D:\NetCoreTest\TesterDemo\LCatalogosInstitucionales\obj\Debug\netcoreapp2.2\LCatalogosInstitucionales.pdb

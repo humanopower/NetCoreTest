@@ -2,6 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs
+/TesterDemo/.vs
 /TesterDemo/DBCatalogosInstitucionales/obj
 /TesterDemo/DBCatalogosInstitucionales/bin
-/.vs
+/TesterDemo/Entities/obj
+/TesterDemo/Entities/bin
+/TesterDemo/LCatalogosInstitucionales/bin
+/TesterDemo/LCatalogosInstitucionales/obj
+/TesterDemo/PCatalogosInstitucionales/bin
+/TesterDemo/PCatalogosInstitucionales/obj
